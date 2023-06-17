@@ -1,0 +1,46 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: yellowgreen;
+}
+.container{
+    width: 350px;
+    padding: 20px;
+    margin:8% auto 0px;
+text-align: center;
+
+}
+.container{
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.head{
+    background-color: aliceblue;
+}
+.formm{
+    background-color: aliceblue;
+}
+input{
+    background-color: aliceblue;
+}
+p{
+    font-size: 13px;
+    background-color: aliceblue;
+    margin-left: -13px;
+}
+span{
+    
+    background-color: aliceblue;
+}
+button{
+    background-color: aliceblue;
+    border-radius: 12px;
+}
+
+h3{
+    background-color: aliceblue;
+}
+.twitter{
+    background-color: rgb(95, 138, 231);
+}
